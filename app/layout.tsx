@@ -21,6 +21,10 @@ export const metadata: Metadata = {
   title: "PEACEFUL DOG — $PDOG",
   description:
     "He bought Dogecoin in 2014. He forgot about it. Then Dogecoin found him again. The story of $PDOG, the most peaceful dog ever.",
+  icons: {
+    icon: "/pdog/logo-pdog.png",
+    apple: "/pdog/logo-pdog.png",
+  },
   openGraph: {
     title: "PEACEFUL DOG — $PDOG",
     description:
