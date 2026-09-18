@@ -1,8 +1,8 @@
 // ─────────────────────────────────────────────────────────────
 // EDIT HERE: replace the value below with the real contract address.
 // Leave it as "" (empty string) while the token is not live.
-export const CONTRACT_ADDRESS = ""
-export const CONTRACT_PLACEHOLDER = "YIL_TUO_CA_REALE"
+export const CONTRACT_ADDRESS = "fafdafad"
+export const CONTRACT_PLACEHOLDER = "IL_TUO_CA_REALE"
 
 // EDIT HERE: official links
 export const X_URL = "https://x.com/peacefuldog"
