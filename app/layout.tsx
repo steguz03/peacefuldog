@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "PEACEFUL DOG — $PDOG",
     description: "The most peaceful dog ever.",
-    images: ["/pdog/pdog-hero.png"],
+    images: ["/pdog/logo-pdog.png"],
   },
 }
 
